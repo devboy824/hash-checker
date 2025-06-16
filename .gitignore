@@ -1,0 +1,13 @@
+serviceAccountKey.json
+.env
+# Logs
+logs
+*.log
+node_modules
+# Dependency directories
+jspm_packages/
+# Build output
+dist/
+build/
+# Coverage directory used by tools like istanbul
+coverage/
