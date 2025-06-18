@@ -18,6 +18,8 @@
     "firebase-admin": "^13.4.0",
     "imap-simple": "^5.1.0",
     "mailparser": "^3.7.3",
+    "node-cron": "^4.1.0",
+    "node-imap": "^0.9.6",
     "nodemon": "^3.1.10",
     "p-limit": "^6.2.0"
   }

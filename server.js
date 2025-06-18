@@ -7,6 +7,10 @@ const getUserDataRoutes = require('./routes/getUserDataRoutes');
 const usersRoute = require('./routes/usersRoute');
 const loginRoute = require('./routes/loginRoute');
 
+
+// require('./firebase');
+// require('./cronJobs');
+
 dotenv.config();
 const app = express();
 
